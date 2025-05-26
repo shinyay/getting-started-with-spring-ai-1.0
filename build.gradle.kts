@@ -39,10 +39,10 @@ tasks.withType<Test> {
 
 tasks.bootRun {
     doFirst {
-        environment.putAll(env.allVariables)
+        environment.putAll(env.allVariables())
     }
 }
 
 tasks.test {
-    environment.putAll(env.allVariables)
+    environment.putAll(env.allVariables())
 }
