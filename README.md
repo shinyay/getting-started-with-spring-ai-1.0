@@ -1,6 +1,21 @@
-# Title
+# Spring AI with Azure OpenAI
 
 ## Description
+
+### Key Concepts Summary:
+
+**Spring AI** - A Spring framework that simplifies building AI-powered Java applications with:
+- Unified API for multiple AI providers
+- Auto-configuration via Spring Boot starters
+- High-level abstractions (ChatClient, Advisors)
+- Integration with vector databases and tools
+- Built-in observability with Micrometer
+
+**Azure OpenAI** - Microsoft's enterprise-grade offering of OpenAI models (GPT-3.5, GPT-4) with:
+- Azure infrastructure benefits
+- Enhanced security and compliance
+- Integration with Azure services
+- Regional deployment options
 
 ## Demo
 
