@@ -25,6 +25,18 @@ The following URL can be used to generate a Spring Boot project template:
 - [Spring Initializr](https://start.spring.io/)
 
 
+Summary Table:
+
+| Field          | Value (example)               |
+|----------------|-------------------------------|
+| Group          | com.microsoft.shinyay         |
+| Artifact       | demo                          |
+| Name           | demo                          |
+| Description    | Demo project for Spring AI    |
+| Package name   | com.microsoft.shinyay.demo    |
+| Packaging      | Jar                           |
+| Java           | 24                            |
+| Dependencies   | Azure OpenAI, Spring Web      |
 
 ## Demo
 
