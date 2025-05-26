@@ -17,6 +17,15 @@
 - Integration with Azure services
 - Regional deployment options
 
+## Tutorial
+
+### 1. Generating Project template on Spring Initializr
+
+The following URL can be used to generate a Spring Boot project template:
+- [Spring Initializr](https://start.spring.io/)
+
+
+
 ## Demo
 
 ## Features
